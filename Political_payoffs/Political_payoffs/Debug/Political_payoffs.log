@@ -1,0 +1,4 @@
+﻿  Political_payoffs.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\Political_payoffs\Political_payoffs\Political_payoffs.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\程式規劃(二)_C_programming\Political_payoffs\Political_payoffs\Political_payoffs.cpp(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Political_payoffs.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\Political_payoffs\Debug\Political_payoffs.exe

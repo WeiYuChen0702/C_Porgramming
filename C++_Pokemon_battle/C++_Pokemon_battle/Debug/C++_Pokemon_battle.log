@@ -1,0 +1,3 @@
+﻿  C++_Pokemon_battle.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\C++_Pokemon_battle\C++_Pokemon_battle\C++_Pokemon_battle.cpp(131,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  C++_Pokemon_battle.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\C++_Pokemon_battle\Debug\C++_Pokemon_battle.exe

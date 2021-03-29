@@ -1,0 +1,3 @@
+﻿  Thief_stealing_linklist.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\Thief_stealing_linklist\Thief_stealing_linklist\Thief_stealing_linklist.cpp(272,19): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Thief_stealing_linklist.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\Thief_stealing_linklist\Debug\Thief_stealing_linklist.exe

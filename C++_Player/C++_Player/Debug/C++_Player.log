@@ -1,0 +1,6 @@
+﻿  Player.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\C++_Player\C++_Player\Player.cpp(128,40): warning C4101: 'rebound': 未參考的區域變數
+E:\108325105_0321\程式規劃(二)_C_programming\C++_Player\C++_Player\Player.cpp(128,49): warning C4101: 'steal': 未參考的區域變數
+  PlayerRecord.cpp
+  正在產生程式碼...
+  C++_Player.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\C++_Player\Debug\C++_Player.exe

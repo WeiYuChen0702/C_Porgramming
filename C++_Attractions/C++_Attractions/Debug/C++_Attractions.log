@@ -1,0 +1,4 @@
+﻿  C++_Attractions.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\C++_Attractions\C++_Attractions\C++_Attractions.cpp(288,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\程式規劃(二)_C_programming\C++_Attractions\C++_Attractions\C++_Attractions.cpp(307,6): warning C4101: 'y': 未參考的區域變數
+  C++_Attractions.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\C++_Attractions\Debug\C++_Attractions.exe
