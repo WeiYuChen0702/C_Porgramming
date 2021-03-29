@@ -1,0 +1,4 @@
+﻿  PointToFun.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\PointToFun\PointToFun\PointToFun.cpp(12,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\程式規劃(二)_C_programming\PointToFun\PointToFun\PointToFun.cpp(57,29): warning C4101: 'j': 未參考的區域變數
+  PointToFun.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\PointToFun\Debug\PointToFun.exe

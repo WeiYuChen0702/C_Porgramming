@@ -1,0 +1,8 @@
+﻿  Call_by_reference.cpp
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(28,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(22,28): warning C4101: 'value': 未參考的區域變數
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(22,22): warning C4101: 'freq': 未參考的區域變數
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(22,6): warning C4101: 'i': 未參考的區域變數
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(158,8): warning C4101: 'tempavg': 未參考的區域變數
+E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Call_by_reference\Call_by_reference.cpp(157,6): warning C4101: 'temp': 未參考的區域變數
+  Call_by_reference.vcxproj -> E:\108325105_0321\程式規劃(二)_C_programming\Call_by_reference\Debug\Call_by_reference.exe
